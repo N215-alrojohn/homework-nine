@@ -16,22 +16,22 @@ Excepteur sint occaecat cupidatat non proident, sunt
 </div>
 <div class="process-box-container">
 <div class="process-box">
-<div class="process-image" style="background-image: url(../images/tractor-in-field.jpg)"></div>
+<div class="process-image" style="background-image: url(images/tractor-in-field.jpg)"></div>
 <div class="process-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </div>
 </div> <!--process box closing-->
 <div class="process-box">
-<div class="process-image" style="background-image: url(../images/featured-image-potatoes.jpg)"></div>
+<div class="process-image" style="background-image: url(images/featured-image-potatoes.jpg)"></div>
 <div class="process-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </div>
 </div> <!--process box closing-->
 <div class="process-box">
-<div class="process-image" style="background-image: url(../images/roasted-potatoes.jpg)"></div>
+<div class="process-image" style="background-image: url(images/roasted-potatoes.jpg)"></div>
 <div class="process-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </div>
 </div> <!--process box closing-->
 </div>`;
 var typesContent=`<div class="types-container">
 <div class="types-box">
     <div class="image-container">
-    <div class="types-image" style="background-image: url(../images/russet.png);"></div>
+    <div class="types-image" style="background-image: url(images/russet.png);"></div>
     </div>
     <div class="types-text">
         <h1>Russet Potato</h1>
@@ -47,7 +47,7 @@ var typesContent=`<div class="types-container">
 </div>
 <div class="types-box">
     <div class="image-container">
-    <div class="types-image" style="background-image: url(../images/red.png);"></div>
+    <div class="types-image" style="background-image: url(images/red.png);"></div>
     </div>
     <div class="types-text">
         <h1>Red Potato</h1>
@@ -63,7 +63,7 @@ var typesContent=`<div class="types-container">
 </div>
 <div class="types-box">
     <div class="image-container">
-    <div class="types-image" style="background-image: url(../images/idaho.jpg);"></div>
+    <div class="types-image" style="background-image: url(images/idaho.jpg);"></div>
     </div>
     <div class="types-text">
         <h1>Idaho Potato</h1>
@@ -92,7 +92,7 @@ var recipesContent=`<div class="recipes-container">
             nulla pariatur.</p>
     </div>
     <div class="image-container">
-        <div class="recipes-image" style="background-image: url(../images/baked.png);"></div>
+        <div class="recipes-image" style="background-image: url(images/baked.png);"></div>
         </div>
 </div>
 <div class="recipes-box">
@@ -108,7 +108,7 @@ var recipesContent=`<div class="recipes-container">
             nulla pariatur.</p>
     </div>
     <div class="image-container">
-        <div class="recipes-image" style="background-image: url(../images/french.jpg);"></div>
+        <div class="recipes-image" style="background-image: url(images/french.jpg);"></div>
         </div>
 </div>
 <div class="recipes-box">
@@ -124,7 +124,7 @@ var recipesContent=`<div class="recipes-container">
             nulla pariatur.</p>
     </div>
     <div class="image-container">
-        <div class="recipes-image" style="background-image: url(../images/mashed.jpg);"></div>
+        <div class="recipes-image" style="background-image: url(images/mashed.jpg);"></div>
         </div>
 </div>
 </div>`;
