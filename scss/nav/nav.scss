@@ -1,0 +1,26 @@
+nav {
+    height: 115px;
+    background-color: #224121;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    a {
+        text-decoration: none;
+        color: rgb(235, 244, 218);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        letter-spacing: 3px;
+        font-size: 35px;
+        margin-right: 30px;
+        font-style: italic;
+      }  
+      
+    span {
+        color: white;
+        font-size: 45px;
+        margin-left: 35px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top: 15px;
+    }
+}
+  

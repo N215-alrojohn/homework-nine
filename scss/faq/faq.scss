@@ -1,0 +1,43 @@
+.faq-container {
+    width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .faq-box {
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+
+        h1 {
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 45px;
+            color: #224121;
+            margin-bottom: 20px;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        p {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 25px;
+            text-align: center;
+        }
+
+        .faq-image {
+            border: 3px;
+            border-style: solid;
+            border-color: #224121;
+            height: 200px;
+            width: 300px;
+            background-image: url(../images/idaho-fields.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    }
+}
